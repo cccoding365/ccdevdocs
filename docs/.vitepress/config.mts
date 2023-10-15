@@ -16,7 +16,6 @@ export default defineConfig({
 			{ text: "Home", link: "/" },
 			{ text: "Front-end", link: "/front-end/index" },
 			{ text: "Website", link: "/website/index" },
-			{ text: "Examples", link: "/examples/markdown-examples.md" },
 		],
 
 		sidebar: {
@@ -83,21 +82,6 @@ export default defineConfig({
 						{
 							text: "Node.js",
 							link: "/front-end/Nodejs/",
-						},
-					],
-				},
-			],
-			"/examples/": [
-				{
-					text: "Examples",
-					items: [
-						{
-							text: "Markdown Examples",
-							link: "/examples/markdown-examples",
-						},
-						{
-							text: "Runtime API Examples",
-							link: "/examples/api-examples",
 						},
 					],
 				},
