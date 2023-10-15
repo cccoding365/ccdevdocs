@@ -5,13 +5,13 @@ export default defineConfig({
 	base: "/ccdevdocs/",
 	title: "ccDevDocs",
 	description: "A develop document.",
-	head: [["link", { rel: "icon", href: "/favicon.svg" }]],
+	head: [["link", { rel: "icon", href: "/ccdevdocs/favicon.svg" }]],
 	themeConfig: {
 		search: {
 			provider: "local",
 		},
 		// https://vitepress.dev/reference/default-theme-config
-		logo: "/assets/logo.svg",
+		logo: "/logo.svg",
 		nav: [
 			{ text: "Home", link: "/" },
 			{ text: "Front-end", link: "/front-end/index" },

@@ -7,7 +7,7 @@ hero:
   text: "A develop document."
   tagline: Document technology and record life!
   image:
-    src: /assets/cover.svg
+    src: /cover.svg
     alt: ccDevDocs
   actions:
     - theme: brand
