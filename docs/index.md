@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "ccDevDocs"
-  text: "DoubledConG's development documents."
+  text: "A develop document."
   tagline: My great project tagline
   actions:
     - theme: brand
