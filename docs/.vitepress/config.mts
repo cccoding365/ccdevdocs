@@ -5,25 +5,51 @@ export default defineConfig({
 	base: "/ccdevdocs/",
 	title: "ccDevDocs",
 	description: "A develop document.",
+	head: [["link", { rel: "icon", href: "/favicon.svg" }]],
 	themeConfig: {
+		search: {
+			provider: "local",
+		},
 		// https://vitepress.dev/reference/default-theme-config
+		logo: "/assets/logo.svg",
 		nav: [
 			{ text: "Home", link: "/" },
-			{ text: "Examples", link: "/markdown-examples" },
+			{ text: "Front-end", link: "/front-end/index" },
+			{ text: "Website", link: "/website/index" },
+			{ text: "Examples", link: "/examples/markdown-examples.md" },
 		],
 
-		sidebar: [
+		sidebar: {
+			"/front-end/": [
+				{
+					text: "Front-end",
+					items: [],
+				},
+			],
+			"/examples/": [
+				{
+					text: "Examples",
+					items: [
+						{
+							text: "Markdown Examples",
+							link: "/examples/markdown-examples",
+						},
+						{ text: "Runtime API Examples", link: "/examples/api-examples" },
+					],
+				},
+			],
+		},
+
+		socialLinks: [
 			{
-				text: "Examples",
-				items: [
-					{ text: "Markdown Examples", link: "/markdown-examples" },
-					{ text: "Runtime API Examples", link: "/api-examples" },
-				],
+				icon: "github",
+				link: "https://github.com/cccoding365/ccdevdocs",
 			},
 		],
 
-		socialLinks: [
-			{ icon: "github", link: "https://github.com/vuejs/vitepress" },
-		],
+		footer: {
+			message: "Released under the MIT License.",
+			copyright: "Copyright © 2019-present DoubledConG",
+		},
 	},
 });

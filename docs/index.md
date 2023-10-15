@@ -5,21 +5,24 @@ layout: home
 hero:
   name: "ccDevDocs"
   text: "A develop document."
-  tagline: My great project tagline
+  tagline: Document technology and record life!
+  image:
+    src: /assets/cover.svg
+    alt: ccDevDocs
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Start reading
+      link: /front-end/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: About me
+      link: /about/
 
 features:
-  - title: Feature A
+  - title: ✨ Advanced technology
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 🏹 Amazing share
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 🚀 Excellent project
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
