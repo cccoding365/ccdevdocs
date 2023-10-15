@@ -26,6 +26,12 @@ export default defineConfig({
 					items: [],
 				},
 			],
+			// "/website/": [
+			// 	{
+			// 		text: "Website",
+			// 		items: [],
+			// 	},
+			// ],
 			"/examples/": [
 				{
 					text: "Examples",
@@ -34,7 +40,10 @@ export default defineConfig({
 							text: "Markdown Examples",
 							link: "/examples/markdown-examples",
 						},
-						{ text: "Runtime API Examples", link: "/examples/api-examples" },
+						{
+							text: "Runtime API Examples",
+							link: "/examples/api-examples",
+						},
 					],
 				},
 			],
