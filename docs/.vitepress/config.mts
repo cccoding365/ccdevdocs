@@ -15,6 +15,7 @@ export default defineConfig({
 		nav: [
 			{ text: "Home", link: "/" },
 			{ text: "Front-end", link: "/front-end/index" },
+			{ text: "Library", link: "/library/index" },
 			{ text: "Website", link: "/website/index" },
 			{ text: "Reading", link: "/reading/index" },
 		],
