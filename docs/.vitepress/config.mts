@@ -16,6 +16,7 @@ export default defineConfig({
 			{ text: "Home", link: "/" },
 			{ text: "Front-end", link: "/front-end/index" },
 			{ text: "Website", link: "/website/index" },
+			{ text: "Reading", link: "/reading/index" },
 		],
 
 		sidebar: {
