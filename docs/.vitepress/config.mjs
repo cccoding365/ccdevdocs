@@ -3,8 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 	base: "/ccdevdocs/",
-	title: "ccDevDocs",
-	description: "A develop document.",
+	title: "DevDocs",
 	head: [["link", { rel: "icon", href: "/ccdevdocs/logo.svg" }]],
 	themeConfig: {
 		lastUpdated: true,

@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-    name: "ccDevDocs"
+    name: "cc's DevDocs"
     text: "A develop document."
     tagline: Document technology and record life!
     image:
