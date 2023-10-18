@@ -7,6 +7,7 @@ export default defineConfig({
 	description: "A develop document.",
 	head: [["link", { rel: "icon", href: "/ccdevdocs/favicon.svg" }]],
 	themeConfig: {
+		lastUpdated: true,
 		search: {
 			provider: "local",
 		},
