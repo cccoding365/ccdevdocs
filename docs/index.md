@@ -4,8 +4,8 @@ layout: home
 
 hero:
     name: "cc's DevDocs"
-    text: "A develop document."
-    tagline: Document technology and record life!
+    text: "Keep track of what I've learned . . ."
+    tagline: Three candles that illuminate every darkness are Truth, Nature and Knowledge.
     image:
         src: /cover.svg
         alt: ccDevDocs
@@ -18,13 +18,10 @@ hero:
           link: /about/
 
 features:
-    - icon: ✨
-      title:  Advanced technology
+    - title: ✨ Advanced technology
       details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - icon: 🏹
-      title:  Amazing share
+    - title: 🏹 Amazing share
       details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - icon: 🚀
-      title:  Excellent project
+    - title: 🚀 Excellent project
       details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
