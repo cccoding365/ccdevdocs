@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-    name: "cc's DevDocs"
+    name: "CC's DevDocs"
     text: "Keep track of what I've learned . . ."
     tagline: Three candles that illuminate every darkness are Truth, Nature and Knowledge.
     image:
