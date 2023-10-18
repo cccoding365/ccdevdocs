@@ -5,7 +5,7 @@ export default defineConfig({
 	base: "/ccdevdocs/",
 	title: "ccDevDocs",
 	description: "A develop document.",
-	head: [["link", { rel: "icon", href: "/ccdevdocs/favicon.svg" }]],
+	head: [["link", { rel: "icon", href: "/ccdevdocs/logo.svg" }]],
 	themeConfig: {
 		lastUpdated: true,
 		search: {
