@@ -131,4 +131,4 @@ dist
 
 # vitepress
 .vitepress/dist
-.vitepress/cache
+docs/.vitepress/cache/
