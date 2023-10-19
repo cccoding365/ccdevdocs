@@ -2,6 +2,8 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+pageClass: home
+
 hero:
     name: "CC's DevDocs"
     text: "Keep track of what I've learned . . ."

@@ -43,7 +43,7 @@
  *   in custom container, badges, etc.
  * -------------------------------------------------------------------------- */
 
- :root {
+:root {
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
   --vp-c-default-3: var(--vp-c-gray-3);
@@ -92,17 +92,13 @@
 
 :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #713cf6 30%,
-    #48acf4
-  );
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg,
+      #713cf6 30%,
+      #48acf4);
 
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #2c5be9 50%,
-    #2ea9da 50%
-  );
+  --vp-home-hero-image-background-image: linear-gradient(-45deg,
+      #2c5be9 50%,
+      #2ea9da 50%);
   --vp-home-hero-image-filter: blur(40px);
 }
 
@@ -137,3 +133,23 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/**
+ * Custom style: Home
+ * -------------------------------------------------------------------------- */
+
+.Layout.home {
+  background-image:
+    linear-gradient(90deg, #66666610 10%, rgba(0, 0, 0, 0) 10%),
+    linear-gradient(#66666610 10%, rgba(0, 0, 0, 0) 10%);
+  background-size: 10px 10px;
+}
+
+.VPLink.VPFeature {
+  cursor: pointer;
+  border: 3px dashed #33333320;
+  transition: border .25s ease-in-out;
+}
+
+.VPLink.VPFeature:hover {
+  border: 3px solid #66666650;
+}

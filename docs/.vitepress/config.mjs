@@ -8,6 +8,7 @@ export default defineConfig({
 	base: "/ccdevdocs/",
 	title: "DevDocs",
 	head: [["link", { rel: "icon", href: "/ccdevdocs/logo.svg" }]],
+	cleanUrls: true,
 
 	markdown: {
 		lineNumbers: true
