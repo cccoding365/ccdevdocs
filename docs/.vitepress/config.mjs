@@ -15,13 +15,9 @@ export default defineConfig({
 
 	// https://vitepress.dev/reference/default-theme-config
 	themeConfig: {
-		lastUpdated: true,
-
-		search: {
-			provider: "local",
-		},
-
 		logo: "/logo.svg",
+		lastUpdated: true,
+		search: { provider: "local", },
 
 		nav,
 
@@ -33,7 +29,7 @@ export default defineConfig({
 				link: "https://github.com/cccoding365/ccdevdocs",
 			},
 		],
-		
+
 		footer: {
 			message: "Released under the MIT License.",
 			copyright: "Copyright © 2019-present DoubledConG",
