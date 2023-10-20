@@ -14,7 +14,7 @@ hero:
     actions:
         - theme: brand
           text: Start reading
-          link: /front-end/
+          link: /frontend/
         - theme: alt
           text: About me
           link: /about/
