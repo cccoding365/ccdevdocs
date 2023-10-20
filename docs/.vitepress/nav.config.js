@@ -4,4 +4,5 @@ export default [
 	{ text: "Library", link: "/library/" },
 	{ text: "Website", link: "/website/" },
 	{ text: "Reading", link: "/reading/" },
+	{ text: "Project", link: "/project/" },
 ];
