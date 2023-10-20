@@ -132,3 +132,4 @@ dist
 # vitepress
 .vitepress/dist
 docs/.vitepress/cache/
+main.js
