@@ -17,7 +17,7 @@
 -   [**index**](index.md)
 -   [**intro**](intro.md)
 -   [**iterator**](iterator.md)
--   [**let and const**](letandconst.md)
+-   [**let and const**](let-and-const.md)
 -   [**mixin**](mixin.md)
 -   [**module-loader**](module-loader.md)
 -   [**module**](module.md)
