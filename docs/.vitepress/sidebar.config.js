@@ -1,35 +1,35 @@
 export default {
-	"/front-end/": [
+	"/frontend/": [
 		{
-			text: "Front-end",
+			text: "Front end",
 			items: [
 				{
 					text: "Internet",
-					link: "/front-end/Internet/",
+					link: "/frontend/Internet/",
 				},
 				{
 					text: "HTML",
-					link: "/front-end/HTML/",
+					link: "/frontend/HTML/",
 				},
 				{
 					text: "CSS",
-					link: "/front-end/CSS/",
+					link: "/frontend/CSS/",
 				},
 				{
 					text: "JavaScript",
-					link: "/front-end/JavaScript/",
+					link: "/frontend/JavaScript/",
 				},
 				{
 					text: "Version Control System",
-					link: "/front-end/VersionControlSystem/",
+					link: "/frontend/VersionControlSystem/",
 					items: [
 						{
 							text: "Git",
-							link: "/front-end/VersionControlSystem/Git/",
+							link: "/frontend/VersionControlSystem/Git/",
 							items: [
 								{
 									text: "git-cheatsheet",
-									link: "/front-end/VersionControlSystem/Git/git-cheatsheet.md"
+									link: "/frontend/VersionControlSystem/Git/git-cheatsheet.md"
 								}
 							]
 						}
@@ -37,43 +37,43 @@ export default {
 				},
 				{
 					text: "Package Managers",
-					link: "/front-end/PackageManagers/",
+					link: "/frontend/PackageManagers/",
 				},
 				{
 					text: "Vue",
-					link: "/front-end/Vue/",
+					link: "/frontend/Vue/",
 				},
 				{
 					text: "React",
-					link: "/front-end/React/",
+					link: "/frontend/React/",
 				},
 				{
 					text: "Markdown",
-					link: "/front-end/Markdown/",
+					link: "/frontend/Markdown/",
 				},
 				{
 					text: "Build Tools",
-					link: "/front-end/BuildTools/",
+					link: "/frontend/BuildTools/",
 				},
 				{
 					text: "TypeScript",
-					link: "/front-end/TypeScript/",
+					link: "/frontend/TypeScript/",
 				},
 				{
 					text: "Server Side Rendering",
-					link: "/front-end/ServerSideRendering/",
+					link: "/frontend/ServerSideRendering/",
 				},
 				{
 					text: "Desktop Applications",
-					link: "/front-end/DesktopApplications/",
+					link: "/frontend/DesktopApplications/",
 				},
 				{
 					text: "Mobile Applications",
-					link: "/front-end/MobileApplications/",
+					link: "/frontend/MobileApplications/",
 				},
 				{
 					text: "Node.js",
-					link: "/front-end/Nodejs/",
+					link: "/frontend/Nodejs/",
 				},
 			],
 		},
