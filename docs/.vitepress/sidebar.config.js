@@ -108,5 +108,19 @@ export default {
 			text: "Node.js",
 			link: "/frontend/Nodejs/",
 		}
+	],
+	"/resource/": [
+		{
+			text: "Website",
+			link: "/resource/website.md"
+		},
+		{
+			text: "Library",
+			link: "/resource/library.md"
+		},
+		{
+			text: "Reading",
+			link: "/resource/reading.md"
+		}
 	]
 };
