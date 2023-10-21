@@ -33,6 +33,10 @@ export default {
 			link: "/resource/library.md"
 		},
 		{
+			text: "Tool",
+			link: "/resource/tool.md"
+		},
+		{
 			text: "Reading",
 			link: "/resource/reading.md"
 		},

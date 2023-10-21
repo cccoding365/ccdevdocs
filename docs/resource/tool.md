@@ -1,0 +1,61 @@
+# Tool
+
+**这里主要分享一些实用的工具**
+
+-   [**high-speed-downloader**](https://github.com/high-speed-downloader/high-speed-downloader) - 百度网盘不限速下载 支持 Windows 和 Mac
+-   [**hyper**](https://github.com/zeit/hyper) - 前端命令行
+-   [**yapi**](https://github.com/ymfe/yapi) - 是一个可本地部署的、打通前后端及 QA 的、可视化的接口管理平台
+-   [**sway**](https://sway.com/) - 一个微软自己出的在线 ppt 很强大
+-   [**Ascii Art Generator**](https://asciiartgen.now.sh) - 在线生成 Ascii 图案
+-   [**Winds**](https://github.com/GetStream/Winds) - 开源 RSS
+-   [**JSUI**](https://github.com/kitze/JSUI) - 一个用来控制管理前端项目的客户端
+-   [**docz**](https://github.com/pedronauck/docz) - 让你能快速写文档的一个库
+-   [**hiper**](https://github.com/pod4g/hiper) - 性能统计分析工具
+-   [**verdaccio**](https://github.com/verdaccio/verdaccio) - 私有 npm
+-   [**git-guide**](http://rogerdudler.github.io/git-guide/index.zh.html) - git 入门指南
+-   [**git-tips**](https://github.com/521xueweihan/git-tips) - git 进阶
+-   [**bit**](https://github.com/teambit/bit) - 实现了项目之间的代码共享 可以自建私有
+-   [**simpread**](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+-   [**mkcert**](https://github.com/FiloSottile/mkcert) - 一键命令 让本地也支持 https
+-   [**termtosvg**](https://github.com/nbedos/termtosvg) - 录制 命令操作转成 svg 基于 python
+-   [**gh-polls**](https://github.com/apex/gh-polls) - 可以在 github issue 中添加投票
+-   [**eruda**](https://github.com/liriliri/eruda) - 移动端调试工具
+-   [**vConsole**](https://github.com/Tencent/vConsole) - 也是一个移动端调试工具 腾讯出品
+-   [**terminalizer**](https://github.com/faressoft/terminalizer) - 命令行录制工具 基于 node
+-   [**badgen**](https://github.com/amio/badgen-service) - 快速构建和 shields 一样的 svg badge 但速度更快
+-   [**readability**](https://github.com/luin/readability) - 移除页面非正文部分 基于 jsdom
+-   [**WeChatPlugin-MacOS**](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 一款功能强大的 macOS 版微信小助手
+-   [**puppeteer-recorder**](https://github.com/checkly/puppeteer-recorder) - 一个 chrome 插件 能够根据你的操作 自动生成 puppeteer 相关代码
+-   [**mdx-deck**](https://github.com/jxnblk/mdx-deck) - 用 markdown 编写演示文稿
+-   [**code-surfer**](https://github.com/pomber/code-surfer) - 基于 mdx-deck 的一个插件
+    让你更好的在文稿中展示 code
+-   [**Progressive Tooling**](https://progressivetooling.com/) - 前端性能优化工具集合
+-   [**GrapesJS**](https://grapesjs.com/) - 可视化建站工具
+-   [**image-charts**](https://www.image-charts.com/) - 该服务通过 URL 接受参数，然后生成图表，以图片形式返回
+-   [**eagle.js**](https://github.com/Zulko/eagle.js) - 一个用 vue 来制作 PPT 的库
+-   [**Optimizely**](https://www.optimizely.com/) - A/B Test
+-   [**appadhoc**](http://www.appadhoc.com/) - 一个国内的 A/B Test 服务
+-   [**glorious-demo**](https://github.com/glorious-codes/glorious-demo) - 通过编写代码的方式构建一个命令行的演示例子
+-   [**nginxconfig**](https://github.com/valentinxxx/nginxconfig.io/) - 可视化配置 nginx 提供了多个基础模板
+-   [**bundlephobia**](https://bundlephobia.com/) - 一个可以查看某个库的大小，并且分析它的依赖
+-   [**jsperf**](https://jsperf.com/popular) - 一个提供在线 test case 的网站，主要用来比较性能。可以比较如： forEach vs for 的性能
+-   [**perflink**](https://github.com/lukejacksonn/perflink) - 与 jsperf 类似的一个比较 js 性能的网站
+-   [**algorithm-visualizer**](https://github.com/algorithm-visualizer/algorithm-visualizer) - 算法代码可视化
+-   [**An-English-Guide-for-Programmers**](https://github.com/yujiangshui/An-English-Guide-for-Programmers) - 专为程序员编写的英语学习指南
+-   [**Webhint**](https://webhint.io/) - 用于检查代码的可访问性、性能和安全的开源检查（Linting）工具
+-   [**airtap**](https://github.com/airtap/airtap) - 测试浏览器兼容性，可覆盖 800 多种浏览器
+-   [**jsonstore**](https://github.com/bluzi/jsonstore) - 供免费，安全且基于 JSON 的云数据存储，自己玩的小项目神器
+-   [**git-history**](https://github.com/pomber/git-history) - 可视化查看一个文件的历史变化
+-   [**x-spreadsheet**](https://github.com/myliang/x-spreadsheet) - 一个基于 Canvas 的 JS 电子表格库 excel
+-   [**imgcook**](https://imgcook.taobao.org/) - 阿里出品，一键通过设计稿生成代码
+-   [**majestic**](https://github.com/Raathigesh/majestic) - jest 可视化
+-   [**leon**](https://github.com/leon-ai/leon) - 你开源项目的 ai 个人助手
+-   [**js-code-to-svg-flowchart**](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - 将代码逻辑用流程图的方式展现出来
+-   [**xterm.js**](https://github.com/xtermjs/xterm.js) - 一个 web terminal
+-   [**pixelmatch**](https://github.com/mapbox/pixelmatch) - diff 两张图片不一样的地方
+-   [**readme-md-generator**](https://github.com/kefranabg/readme-md-generator) - 一个命令行脚本帮你快速的创建一个 README
+-   [**build-tracker**](https://github.com/paularmstrong/build-tracker) - 构建大小追踪 记录你多个版本构建后文件大小的变化
+-   [**zan-proxy**](https://github.com/youzan/zan-proxy/blob/master/README.zh-CN.md) - 本地调试线上环境的工具
+-   [**mjml**](https://github.com/mjmlio/mjml) - 一个让发 email 更简单的框架。定义了一套自己的语法，你用这套语法写邮件，然后编译成 HTML。
+-   [**any-rule**](https://any86.github.io/any-rule/) - 正则大全
+-   [**outline**](https://github.com/outline/outline) - 一个免费开源的库，能让你快速搭建自己的 wiki
