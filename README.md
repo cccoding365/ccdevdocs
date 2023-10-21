@@ -1,5 +1,5 @@
 <h1 align="center">
-CcDevDocs
+CC's DevDocs
 </h1>
 
 <p align="center">
