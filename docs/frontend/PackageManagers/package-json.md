@@ -2,20 +2,37 @@
 
 **package.json 的常见配置**
 
-## 必须属性
-
--   name - 名称
--   version - 版本
-
-## 描述信息
-
--   description - 描述信息
--   keywords - 关键词
--   author - 作者
--   contributors - 贡献者
--   homepage - 主页
--   repository - 仓库
--   bugs - Bug 反馈地址
+```json
+{
+	"name": "ccdevdocs", // 名称
+	"version": "1.0.0", // 版本
+	"description": "DoubledConG's development documents.", // 描述
+	"main": "index.js", // 入口
+	"scripts": {
+		// 脚本
+		"dev": "vitepress dev docs",
+		"build": "vitepress build docs",
+		"preview": "vitepress preview docs"
+	},
+	"repository": {
+		// 仓库
+		"type": "git",
+		"url": "git+https://github.com/cccoding365/ccdevdocs.git"
+	},
+	"keywords": ["documents", "notes", "study"], // 关键词
+	"author": "DoubledConG", // 作者
+	"license": "MIT", // 开源协议
+	"bugs": {
+		// Bug 反馈地址
+		"url": "https://github.com/cccoding365/ccdevdocs/issues"
+	},
+	"homepage": "https://github.com/cccoding365/ccdevdocs#readme", // 主页
+	"devDependencies": {
+		// 开发依赖
+		"vitepress": "^1.0.0-rc.22"
+	}
+}
+```
 
 ## 依赖配置
 

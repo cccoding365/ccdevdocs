@@ -1,199 +1,169 @@
-# CLI Commands
+---
+lineNumbers: false
+---
 
-> Version 10.1.0
+# CLI Commands `Version 10.1.0`
 
-- npm
+**npm - JavaScript package manager**
 
-JavaScript package manager
-- npm access
+-   `npm access` - Set access level on published packages
 
-Set access level on published packages
-- npm adduser
+-   `npm adduser` - Add a registry user account
 
-Add a registry user account
-- npm audit
+-   `npm audit` - Run a security audit
 
-Run a security audit
-- npm bugs
+-   `npm bugs` - Bugs for a package in a web browser maybe
 
-Bugs for a package in a web browser maybe
-- npm cache
+-   `npm cache` - Manipulates packages cache
 
-Manipulates packages cache
-- npm ci
+-   `npm ci` - Install a project with a clean slate
 
-Install a project with a clean slate
-- npm completion
+-   `npm completion` - Tab completion for npm
 
-Tab completion for npm
-- npm config
+## npm config
 
-Manage the npm configuration files
-- npm dedupe
+> Manage the npm configuration files
 
-Reduce duplication
-- npm deprecate
+查看源
 
-Deprecate a version of a package
-- npm diff
+```bash
+npm config get registry
+```
 
-The registry diff command
-- npm dist-tag
+设置成淘宝源
 
-Modify package distribution tags
-- npm docs
+```bash
+npm config set registry https://registry.npm.taobao.org
+```
 
-Docs for a package in a web browser maybe
-- npm doctor
+-   `npm dedupe` - Reduce duplication
 
-Check your environments
-- npm edit
+-   `npm deprecate` - Deprecate a version of a package
 
-Edit an installed package
-- npm exec
+-   `npm diff` - The registry diff command
 
-Run a command from an npm package
-- npm explain
+-   `npm dist-tag` - Modify package distribution tags
 
-Explain installed packages
-- npm explore
+-   `npm docs` - Docs for a package in a web browser maybe
 
-Browse an installed package
-- npm find-dupes
+-   `npm doctor` - Check your environments
 
-Find duplication in the package tree
-- npm fund
+-   `npm edit` - Edit an installed package
 
-Retrieve funding information
-- npm help
+-   `npm exec` - Run a command from an npm package
 
-Search npm help documentation
-- npm help-search
+-   `npm explain` - Explain installed packages
 
-Get help on npm
-- npm hook
+-   `npm explore` - Browse an installed package
 
-Manage registry hooks
-- npm init
+-   `npm find-dupes` - Find duplication in the package tree
 
-Create a package.json file
-- npm install
+-   `npm fund` - Retrieve funding information
 
-Install a package
-- npm install-ci-test
+-   `npm help` - Search npm help documentation
 
-Install a project with a clean slate and run tests
-- npm install-test
+-   `npm help-search` - Get help on npm
 
-Install package(s) and run tests
-- npm link
+-   `npm hook` - Manage registry hooks
 
-Symlink a package folder
-- npm login
+## npm init
 
-Login to a registry user account
-- npm logout
+> Create a package.json file
 
-Log out of the registry
-- npm ls
+## npm install
 
-List installed packages
-- npm org
+> Install a package
 
-Manage orgs
-- npm outdated
+-   `npm install-ci-test` - Install a project with a clean slate and run tests
 
-Check for outdated packages
-- npm owner
+-   `npm install-test` - Install package(s) and run tests
 
-Manage package owners
-- npm pack
+## npm link
 
-Create a tarball from a package
-- npm ping
+> Symlink a package folder
 
-Ping npm registry
-- npm pkg
+## npm login
 
-Manages your package.json
-- npm prefix
+> Login to a registry user account
 
-Display prefix
-- npm profile
+## npm logout
 
-Change settings on your registry profile
-- npm prune
+> Log out of the registry
 
-Remove extraneous packages
-- npm publish
+## npm ls
 
-Publish a package
-- npm query
+> List installed packages
 
-Retrieve a filtered list of packages
-- npm rebuild
+-   `npm org` - Manage orgs
 
-Rebuild a package
-- npm repo
+-   `npm outdated` - Check for outdated packages
 
-Open package repository page in the browser
-- npm restart
+-   `npm owner` - Manage package owners
 
-Restart a package
-- npm root
+-   `npm pack` - Create a tarball from a package
 
-Display npm root
-- npm run-script
+-   `npm ping` - Ping npm registry
 
-Run arbitrary package scripts
-- npm search
+-   `npm pkg` - Manages your package.json
 
-Search for packages
-- npm shrinkwrap
+-   `npm prefix` - Display prefix
 
-Lock down dependency versions for publication
-- npm star
+-   `npm profile` - Change settings on your registry profile
 
-Mark your favorite packages
-- npm stars
+-   `npm prune` - Remove extraneous packages
 
-View packages marked as favorites
-- npm start
+## npm publish
 
-Start a package
-- npm stop
+> Publish a package
 
-Stop a package
-- npm team
+-   `npm query` - Retrieve a filtered list of packages
 
-Manage organization teams and team memberships
-- npm test
+-   `npm rebuild` - Rebuild a package
 
-Test a package
-- npm token
+-   `npm repo` - Open package repository page in the browser
 
-Manage your authentication tokens
-- npm uninstall
+-   `npm restart` - Restart a package
 
-Remove a package
-- npm unpublish
+-   `npm root` - Display npm root
 
-Remove a package from the registry
-- npm unstar
+-   `npm run-script` - Run arbitrary package scripts
 
-Remove an item from your favorite packages
-- npm update
+-   `npm search` - Search for packages
 
-Update a package
-- npm version
+-   `npm shrinkwrap` - Lock down dependency versions for publication
 
-Bump a package version
-- npm view
+-   `npm star` - Mark your favorite packages
 
-View registry info
-- npm whoami
+-   `npm stars` - View packages marked as favorites
 
-Display npm username
-- npx
+-   `npm start` - Start a package
 
-Run a command from an npm package
+-   `npm stop` - Stop a package
+
+-   `npm team` - Manage organization teams and team memberships
+
+-   `npm test` - Test a package
+
+-   `npm token` - Manage your authentication tokens
+
+## npm uninstall
+
+> Remove a package
+
+-   `npm unpublish` - Remove a package from the registry
+
+-   `npm unstar` - Remove an item from your favorite packages
+
+-   `npm update` - Update a package
+
+## npm version
+
+> Bump a package version
+
+-   `npm view` - View registry info
+
+-   `npm whoami` - Display npm username
+
+## npx
+
+> Run a command from an npm package
