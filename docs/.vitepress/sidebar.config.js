@@ -5,34 +5,12 @@ export default {
 			link: "/frontend/Internet/",
 		},
 		{
-			text: "HTML",
-			link: "/frontend/HTML/",
-		},
-		{
-			text: "CSS",
-			link: "/frontend/CSS/",
-			items: [
-				{
-					text: "Flex Layout Guide",
-					link: "/frontend/CSS/flex-layout-guide.md"
-				},
-				{
-					text: "Library",
-					link: "/frontend/CSS/library.md"
-				}
-			]
-		},
-		{
-			text: "JavaScript",
-			link: "/frontend/JavaScript/",
+			text: "HTML / CSS / JavaScript",
+			link: "/frontend/HtmlCssJavaScript/",
 			items: [
 				{
 					text: "ES6+",
-					link: "/frontend/JavaScript/ES6/"
-				},
-				{
-					text: "Fetch API",
-					link: "/frontend/JavaScript/javascript-fetch-api.md"
+					link: "/frontend/HtmlCssJavaScript/ES6/"
 				}
 			]
 		},
@@ -41,12 +19,8 @@ export default {
 			link: "/frontend/VersionControlSystem/",
 			items: [
 				{
-					text: "Git",
-					link: "/frontend/VersionControlSystem/Git/"
-				},
-				{
 					text: "Git Cheatsheet",
-					link: "/frontend/VersionControlSystem/Git/git-cheatsheet.md"
+					link: "/frontend/VersionControlSystem/git-cheatsheet.md"
 				}
 			]
 		},
@@ -55,28 +29,18 @@ export default {
 			link: "/frontend/PackageManagers/",
 			items: [
 				{
+					text: "npm commands",
+					link:"/frontend/PackageManagers/cli-commands.md"
+				},
+				{
 					text: "package.json",
 					link: "/frontend/PackageManagers/package-json.md"
 				}
 			]
 		},
 		{
-			text: "Vue",
-			link: "/frontend/Vue/",
-		},
-		{
-			text: "React",
-			link: "/frontend/React/",
-		},
-		{
-			text: "Markdown",
-			link: "/frontend/Markdown/",
-			item: [
-				{
-					text: "Markdown Cheatsheet",
-					link: "/frontend/Markdown/markdown-cheat-sheet.md"
-				}
-			]
+			text: "Framework",
+			link: "/frontend/Framework/",
 		},
 		{
 			text: "Build Tools",
@@ -100,7 +64,7 @@ export default {
 			items: [
 				{
 					text: "uni app",
-					link: "/docs/frontend/MobileApplications/uni-app.md"
+					link: "/frontend/MobileApplications/uni-app.md"
 				}
 			]
 		},
