@@ -5,9 +5,9 @@ import sidebar from './sidebar.config';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	base: "/ccdevdocs/",
+	// base: "/ccdevdocs/",
 	title: "DevDocs",
-	head: [["link", { rel: "icon", href: "/ccdevdocs/logo.svg" }]],
+	head: [["link", { rel: "icon", href: "/logo.svg" }]],
 	cleanUrls: true,
 
 	markdown: {
