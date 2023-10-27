@@ -2,37 +2,17 @@
 
 **这个栏目用来记录我最近阅读的文章。**
 
-
-## 前端面试题目（分类）
-
-> 求职时，自己整理的面试题目，有待完善……
-
-1. [HTML](/fetech/html.md)
-2. [CSS](/fetech/css.md)
-3. [JavaScript](/fetech/JavaScript.md)
-4. [ES6](/fetech/ESsix.md)
-5. [Vue](/fetech/vue.md)
-6. [React](/fetech/react.md)
-7. [Webpack](/fetech/webpack.md)
-8. [网络](/fetech/network.md)
-9. [代码](/fetech/mycode.md)
-10. [浏览器](/fetech/brower.md)
-11. [移动端](/fetech/phone.md)
-12. [性能优化](/fetech/performance.md)
-13. [Web 安全](/fetech/webSecurity.md)
-14. [前端工程化](/fetech/project.md)
-
 ## 前端面试题目（收集）
 
 > 来自各个平台大佬整理的题目。
 
-1. [木易杨前端进阶](https://muyiy.vip/question/) - [github 地址](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 每日一题前端面试 
+1. [木易杨前端进阶](https://muyiy.vip/question/) - [github 地址](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 每日一题前端面试
 2. [前端面试与进阶指南](https://www.cxymsg.com/) - 前端开发者面试清单
 3. [前端进阶之道](https://yuchengkai.cn/home/)
 4. [前端面试每日 3+1](https://github.com/haizlin/fe-interview)
 5. [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
-6. [大前端吊打面试官系列](https://github.com/luxiangqiang/Web-interview) 
-7. [2020年前端面试复习必读文章](https://juejin.im/post/5e8b163ff265da47ee3f54a6) - 十分棒的面试复习必读文章集合
+6. [大前端吊打面试官系列](https://github.com/luxiangqiang/Web-interview)
+7. [2020 年前端面试复习必读文章](https://juejin.im/post/5e8b163ff265da47ee3f54a6) - 十分棒的面试复习必读文章集合
 8. [前端面试](https://github.com/lgwebdream/FE-Interview)
 9. [前端面试复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 
@@ -52,7 +32,6 @@
 5. [前端乐园](https://github.com/abc-club/js-paradise) - 前端资源汇总
 6. [前端入门到进阶图文教程](https://github.com/qianguyihao/Web)
 7. [写个初高级前端的前端进阶指南](https://github.com/sl1673495/frontend-roadmap)
-
 
 ## 学习网站
 
@@ -184,7 +163,7 @@
 11. [从零搭建 React 全家桶框架教程](https://github.com/brickspert/blog/issues/1) - 一步一步教你搭建 React 框架，主要阐述 webpack 配置过程
 12. [深入理解 Vite 核心原理](https://juejin.cn/post/7064853960636989454) - 最通俗易懂解释 vite 原理的文章
 13. [webpack 官方文档](https://webpack.docschina.org/guides/tree-shaking/) - tree shaking 一节可以了解一下
-14. [【工程化】无用代码去哪了？项目减重之 rollup 的 Tree shaking](https://jishuin.proginn.com/p/763bfbd5c646) - rollup 的 tree shaking 的原理解析 
+14. [【工程化】无用代码去哪了？项目减重之 rollup 的 Tree shaking](https://jishuin.proginn.com/p/763bfbd5c646) - rollup 的 tree shaking 的原理解析
 15. [10 分钟快速入门 rollup.js](https://www.imooc.com/article/262083),[10 分钟快速进阶 rollup.js](https://www.imooc.com/article/263597) - rollup 进阶，了解基础配置
 
 ### 技术分享
