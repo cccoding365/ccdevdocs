@@ -7,6 +7,7 @@
 -   [**addog**](https://www.addog.vip/) - 广告人的网址导航
 -   [**Boss 设计**](https://www.bossdesign.cn/) - 收集设计利器
 -   [**Boxicons**](https://boxicons.com/) -Simple Open Source icons carefully crafted for designers & developers
+-   [**Browse Fonts**](https://fonts.google.com/) - Search fonts
 -   [**爱给**](https://www.aigei.com/) - 让创作更简单
 -   [**dafont**](https://www.dafont.com/) - 字体网站
 -   [**dowebok**](https://www.dowebok.com/) - 包含各种图片、字体和代码等素材
