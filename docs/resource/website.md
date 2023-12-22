@@ -5,6 +5,7 @@
 ## Resource
 
 -   [**addog**](https://www.addog.vip/) - 广告人的网址导航
+-   [**fontawesome**](https://fontawesome.com.cn/v5) - fontawesome
 -   [**Boss 设计**](https://www.bossdesign.cn/) - 收集设计利器
 -   [**Boxicons**](https://boxicons.com/) -Simple Open Source icons carefully crafted for designers & developers
 -   [**Browse Fonts**](https://fonts.google.com/) - Search fonts
