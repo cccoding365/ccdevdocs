@@ -2,6 +2,10 @@
 
 **这里主要是一些我日常学习工作生活中使用的网站。**
 
+## Funny
+
+-  [**weavesilk**](http://weavesilk.com/) - Create beautiful flowing art with Silk.
+
 ## Resource
 
 -   [**addog**](https://www.addog.vip/) - 广告人的网址导航
