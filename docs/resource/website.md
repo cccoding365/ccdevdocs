@@ -4,7 +4,7 @@
 
 ## Funny
 
--  [**weavesilk**](http://weavesilk.com/) - Create beautiful flowing art with Silk.
+-  [**weavesilk**](http://weavesilk.com/) - Create beautiful flowing art with Silk
 
 ## Resource
 
