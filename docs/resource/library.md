@@ -74,6 +74,7 @@
 -   [**mitt**](https://github.com/developit/mitt) - 轻量级 pub/sub
 -   [**sanitize-html**](https://github.com/apostrophecms/sanitize-html) - html 过滤库，防 xss
 -   [**DOMPurify**](https://github.com/cure53/DOMPurify) - 比 sanitize-html 更轻量，建议一般业务用这个
+-   [**mescroll**](https://www.mescroll.com/index.html) - 精致的下拉刷新和上拉加载js框架
 
 ## CSS & Animation
 
