@@ -30,7 +30,7 @@
 -   [**percollate**](https://github.com/danburzo/percollate) - 命令行工具 能将网页转换成 pdf
 -   [**rawact**](https://github.com/sokra/rawact) - 一个 babel 插件，把 react 组件转为原生 dom
 -   [**irondb**](https://github.com/gruns/irondb) - 是一个浏览器 key-value 储存的封装库，把 Cookies、IndexedDB、LocalStorage、SessionStorage 统一成一个接口。它的最大特色就是数据冗余机制，即使某种底层储存机制失效，它可以从其他机制恢复数据。
--   [**big.js**](https://github.com/MikeMcl/big.js) - 解决 js 浮点数问题。 主要就是 Big Number 或者小数点温柔
+-   [**big.js**](https://github.com/MikeMcl/big.js) - 解决 js 浮点数问题。 主要就是 Big Number 或者小数点问题
 -   [**bignumber.js**](https://github.com/MikeMcl/bignumber.js) - 同上
 -   [**stickybits**](https://github.com/dollarshaveclub/stickybits) - CSS 的 position: sticky 是一个很有用的设置，但是老的浏览器不支持。这个 JS 库是该功能的垫片库。
 -   [**react-jsonschema-form**](https://github.com/mozilla-services/react-jsonschema-form) - Mozilla service 开源了一个通过 JSON 直接生成表单的 React 组件
