@@ -35,9 +35,11 @@
 -   [**cssbud**](https://cssbud.com/) - Get amazing, high-quality CSS tools and snippets for your creative needs.
 -   [**cubic-bezier**](https://cubic-bezier.com/) - 贝塞尔曲线工具
 -   [**editor.method**](https://editor.method.ac/) - A simple and easy vector editor for the web.
+-   [**extendsclass**](https://extendsclass.com/) - A collection of developer tools
 -   [**getwaves**](https://getwaves.io/) - 制作波浪效果
 -   [**gradient**](https://gradient.shapefactory.co/) - 渐变生成器
 -   [**haikei**](https://haikei.app/) - A web app to generate stunning visual content
+-   [**mockae**](https://mockae.com/) - A fake rest API powered by Lua
 -   [**shadows**](https://shadows.brumm.af/) - 制作平滑的盒子阴影
 -   [**中国色**](http://zhongguose.com/) - 提供各种中国的传统颜色的名称，CMYK 值，RGB 值，16 进制表示。
 
