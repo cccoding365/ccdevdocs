@@ -19,6 +19,7 @@
 -   [**feathericons**](https://feathericons.com/) - 简单漂亮的图标
 -   [**getemoji**](https://getemoji.com/) - 海量的 emoji 表情
 -   [**icones**](https://icones.js.org/) - 图标网站
+-   [**Iconify.Design**](https://iconify.design/) - Freedom to choose icons
 -   [**今日热榜**](https://tophub.today/) - 全网今日热点
 -   [**码力全开资源站**](https://design.maliquankai.com/) - 产品、设计师、独立开发者的资源库
 -   [**觅元素**](https://www.51yuansu.com/) - 专注于提供高质量版权素材图片免费下载
